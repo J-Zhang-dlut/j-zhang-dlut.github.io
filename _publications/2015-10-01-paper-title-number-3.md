@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "A Deep Fusion Gaussian Mixture Model for Multiview Land Data Clustering"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2024-10-01-paper-title-number-3
+excerpt: ''
+date: 2020-10-01
+venue: 'Wireless Communications & Mobile Computing'
+slidesurl: ''
+paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1155/2020/8880430'
+citation: 'Li P, Chen Z, Gao J, et al. A deep fusion Gaussian mixture model for multiview land data clustering[J]. Wireless Communications and Mobile Computing, 2020, 2020(1): 8880430.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+With the rapid industrialization and urbanization, pattern mining of soil contamination of heavy metals is attracting increasing attention to control soil contamination. However, the correlation over various heavy metals and the high-dimension representation of heavy metal data pose vast challenges on the accurate mining of patterns over heavy metals of soil contamination. To solve those challenges, a multiview Gaussian mixture model is proposed in this paper, to naturally capture complicated relationships over multiviews on the basis of deep fusion features of data. Specifically, a deep fusion feature architecture containing modality-specific and modality-common stacked autoencoders is designed to distill fusion representations from the information of all views. Then, the Gaussian mixture model is extended on the fusion representations to naturally recognize the accurate patterns of the intra- and inter-views. Finally, extensive experiments are conducted on the representative datasets to evaluate the performance of the multiview Gaussian mixture model. Results show the outperformance of the proposed methods.
