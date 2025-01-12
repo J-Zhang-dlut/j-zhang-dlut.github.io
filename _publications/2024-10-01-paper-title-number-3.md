@@ -6,7 +6,6 @@ permalink: /publication/2024-10-01-paper-title-number-3
 excerpt: ''
 date: 2020-10-01
 venue: 'Wireless Communications & Mobile Computing'
-slidesurl: ''
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1155/2020/8880430'
 citation: 'Li P, Chen Z, Gao J, et al. A deep fusion Gaussian mixture model for multiview land data clustering[J]. Wireless Communications and Mobile Computing, 2020, 2020(1): 8880430.'
 ---
