@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Jianing Zhang, and I am delighted to have you here on my academic homepage. This space is designed to provide an overview of my research journey, academic pursuits, and professional engagements.
+Hello, I am Jianing Zhang. It makes me delighted to have you here on my academic homepage. This space is designed to provide an overview of my research journey, academic pursuits, and professional engagements.
 
 My academic interests span across **Multimodal Representation Learning, Medical Image Segmentation, Data Mining** and so on.  I am constantly driven by the pursuit of knowledge and the desire to contribute meaningful insights to these areas. Through this platform, I aim to share my latest research findings, publications, and ongoing projects, offering a glimpse into the intellectual endeavors that shape my academic life.
 
