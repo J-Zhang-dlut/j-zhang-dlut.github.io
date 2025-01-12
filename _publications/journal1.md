@@ -2,7 +2,7 @@
 title: "A Deep Fusion Gaussian Mixture Model for Multiview Land Data Clustering"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-10-01-paper-title-number-3
+permalink: /publication/journal1
 excerpt: ''
 date: 2020-10-01
 venue: 'Wireless Communications & Mobile Computing'
