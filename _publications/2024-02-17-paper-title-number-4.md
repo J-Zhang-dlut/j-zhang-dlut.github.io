@@ -3,7 +3,7 @@ title: "Privacy-preserving deep learning models for law big data feature learnin
 collection: publications
 category: conferences
 permalink: /publication/CyberSciTech.2019.00035
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2019-02-17
 venue: 'CyberSciTech'
 paperurl: 'https://ieeexplore.ieee.org/document/8890517'
