@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2019-02-17
-venue: 'CyberSciTech'
+venue: 'Intl Conf on Cyber Science and Technology Congress'
 paperurl: 'https://ieeexplore.ieee.org/document/8890517'
 citation: 'Yuan X, Zhang J, Chen Z, et al. Privacy-preserving deep learning models for law big data feature learning[C]//2019 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech). IEEE, 2019: 128-134.'
 ---
