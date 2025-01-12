@@ -2,7 +2,7 @@
 title: "Privacy-preserving deep learning models for law big data feature learning"
 collection: publications
 category: conferences
-permalink: /publication/CyberSciTech.2019.00035
+permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2019-02-17
 venue: 'CyberSciTech'
