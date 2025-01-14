@@ -1,8 +1,8 @@
 ---
 title: "A Latent Adversarial Cauchy-Schwarz Autoencoder for Medical Image Segmentation"
 collection: publications
-category: manuscripts
-permalink: /publication/journal6
+category: conference
+permalink: /publication/conference2
 excerpt: ''
 date: 2023-02-03
 venue: 'IEEE International Conference On Bioinformatics And Biomedicine'
