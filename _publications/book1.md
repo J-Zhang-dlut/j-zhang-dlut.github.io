@@ -2,7 +2,7 @@
 title: "Multimodal Data Fusion"
 collection: publications
 category: books
-permalink: /publication/journal13
+permalink: /publication/book1
 excerpt: ''
 date: 2022-03-03
 venue: 'Advances in Computing, Informatics, Networking and Cybersecurity: A Book Honoring Professor Mohammad S. Obaidat’s Significant Scientific Contributions'
