@@ -1,7 +1,7 @@
 ---
 title: "Multimodal Data Fusion"
 collection: publications
-category: manuscripts
+category: books
 permalink: /publication/journal13
 excerpt: ''
 date: 2022-03-03
